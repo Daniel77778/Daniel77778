@@ -1,6 +1,6 @@
 # Hola, soy Daniel 👋
 
-![Banner con mi nombre](https://gyazo.com/7d986a04a4ad192369c4ddc6838b0373)
+![Banner con mi nombre](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHYfpuStEXHSYwb3hnYju0LlkKcQD8NIDt1ZPC-6kI_ynBCnzjzeSSGiZD0cYgojrVYzw&usqp=CAU)
 
 ## 👨‍💻 Sobre Mí
 Soy un desarrollador full-stack apasionado por la creación de experiencias web interactivas y el aprendizaje de nuevas tecnologías. Actualmente, estoy profundizando en React y Node.js.
@@ -8,11 +8,13 @@ Soy un desarrollador full-stack apasionado por la creación de experiencias web 
 ## 📚 Proyectos Destacados
 
 ### ReactProject
-Un proyecto innovador que utiliza React para...
+Un proyecto innovador que utiliza React para paginas web dinamicas
+
 ![ReactProject](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQADUsKh33zlubY0AP7Pew4VLAsIxlk2rb4aVKhCbY9nw&s)
 
 ### TiendaReact
-Una tienda en línea creada con React y...
+Una tienda en línea creada con React con la posibilidad de aumentar tus ventas exponencialmente
+
 ![TiendaReact](https://i.ytimg.com/vi/jGBE75m6YOE/mqdefault.jpg)
 
 ## 🛠️ Habilidades
@@ -21,8 +23,3 @@ Una tienda en línea creada con React y...
 - Node.js
 - HTML5 & CSS3
 
-```javascript
-// Ejemplo de código con coloración de sintaxis
-function saludar() {
-  console.log("¡Hola GitHub!");
-}
